@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="461e7e48-9c0b-4b85-beaa-498b85def084" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/jdk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/thriftCompiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk8-sourcecode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.hgignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.hgignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../macosx/native/sun/osxapp/ThreadUtilities.m" beforeDir="false" afterPath="$PROJECT_DIR$/../../macosx/native/sun/osxapp/ThreadUtilities.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/util/concurrent/locks/AbstractQueuedSynchronizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javavm/export/jni.h" beforeDir="false" afterPath="$PROJECT_DIR$/../javavm/export/jni.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../native/java/io/RandomAccessFile.c" beforeDir="false" afterPath="$PROJECT_DIR$/../native/java/io/RandomAccessFile.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../solaris/native/sun/nio/ch/FileChannelImpl.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../solaris/native/sun/nio/ch/FileChannelImpl.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1n0EKuu1AZNhqqAYMzhug9twCxZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="461e7e48-9c0b-4b85-beaa-498b85def084" name="Default Changelist" comment="" />
+      <created>1610518547120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610518547120</updated>
+      <workItem from="1610518550486" duration="1171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2014" y="367" width="670" height="676" key="search.everywhere.popup" timestamp="1610518828080">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2014" y="367" width="670" height="676" key="search.everywhere.popup/0.23.1280.731/1280.23.1920.1057@1280.23.1920.1057" timestamp="1610518828080" />
+  </component>
+  <component name="hg4idea.settings">
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+</project>
