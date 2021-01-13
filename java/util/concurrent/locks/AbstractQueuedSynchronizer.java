@@ -1629,8 +1629,11 @@ public abstract class AbstractQueuedSynchronizer
      * @return true if is reacquiring
      */
     final boolean isOnSyncQueue(Node node) {
+        //判断节点的状态，如果状态是CONDITION，说明节点肯定不在同步队列中，
+        //同时哪怕同步队列是刚刚初始化的，也会有一个冗余的头节点存在，所以节点的前驱节点如果为null，那么节点也肯定不在同步队列中，返回false
         if (node.waitStatus == Node.CONDITION || node.prev == null)
             return false;
+        //节点的后继节点不为null，说明节点肯定在队列中
         if (node.next != null) // If has successor, it must be on queue
             return true;
         /*
